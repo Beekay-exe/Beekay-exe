@@ -1,4 +1,5 @@
-#                                                                   Hello there! 👋:
+<h1 align="center">Hi 👋, I'm Bharath Kumar V</h1>
+<h3 align="center"> Tech enthusiast from India</h3>
 🔭 I’m currently working on Password Manager<br>🤝 I would appreciate any help on the above projects<br>🌱 I’m currently learning Flutter, Dart and App development<br>💬 Ask me about Java, C, or anything in general<br>📫 You can reach me at bharathkumarcool2002@gmail.com
 
 
