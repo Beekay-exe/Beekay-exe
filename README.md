@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello there! 👋:
 🔭 I’m currently working on Password Manager<br>🤝 I would appreciate any help on the above projects<br>🌱 I’m currently learning Flutter, Dart and App development<br>💬 Ask me about Java, C, or anything in general<br>📫 You can reach me at bharathkumarcool2002@gmail.com
 
 
